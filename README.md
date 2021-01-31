@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+* 大家好，很高兴在这个机缘巧合的情况下认识大家
+* 我叫高纪辉，来自福建，兴趣爱好是跑步
+* 人生在勤,不索何获。
 <!--
 **Ruma20/Ruma20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
